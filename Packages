@@ -58,8 +58,8 @@ Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: org.thebigboss.locationchangerx
 
 Package: com.kidsauto73.wTabwData
-Name: wTabwData
-Version: 0.2.5
+Name: wTabwData73
+Version: 0.0.2-4
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak for KidsAuto!
 Maintainer: KidsAuto <kidsauto73@gmail.com>
@@ -67,6 +67,6 @@ Author: kidsauto.github.io/73
 Sponsor: GitHub.com <github.com>
 Section: Tweaks
 Filename: ./Debs/wTabwData73.deb
-Size: 39040
-MD5sum: 2053f9328603571ac148498339b31ca3
+Size: 41,366
+MD5sum: 373b2b50897a4cc7e0e2aad1790e11e8
 Depends: mobilesubstrate
